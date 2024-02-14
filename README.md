@@ -2,7 +2,8 @@
 
 ## 👨‍💻 Full-Stack Web Developer | Problem Solver | Continuous Learner
 
-Welcome to my GitHub profile! I’m an enthusiastic web developer specializing in UI development with ReactJS and NextJS. With over 7 years of experience, I find joy in exploring new concepts, mastering tools, and addressing complex challenges head-on.
+Welcome to my GitHub profile! 
+I love learning and solving problems! I work well with others, code, and new tech. I put in effort and strive for quality. I'd love to discuss my skills in React, Next.JS, and more to help your projects succeed! Web development makes me excited to build new things together.
 
 ### 🚀 Skills
 
